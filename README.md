@@ -10,9 +10,8 @@
 
 ---
 
-| ![Rubberduck](images/rubberduck.jpg) <br> \**Gives a thoughtful, silent stare*\* | Hello! Meet "Arménio Durães", my coding buddy. We tackle bugs together — he listens to all my coding rants and helps me find tricky errors. He’s named after two awesome professors from my academic journey who really inspired me. And if you see a quack in the code comments, that’s just AD giving his feedback! 🦆 |
+| ![Rubberduck](images/rubberduck.jpg) <br> \**Gives a thoughtful, silent stare*\* | Hello! Meet "Arménio Durães", my coding buddy. We tackle bugs together — he listens to all my coding rants and helps me find tricky errors. He’s named after two awesome professors from my academic journey who really inspired me. And if you see a quack in the code comments, that’s just AD giving his feedback! 🦆 <br> <br> <br> <a href="https://open.spotify.com/playlist/48RttvOcYG5VgAj6RrT2eu?utm_source=generator" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="AD'S Spotify Playlist" /></a> <br>🦆🎶🎧 <br> <br> <br> [Learn more about Rubber Duck Debugging](https://rubberduckdebugging.com/)|
 |--------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
-| 🦆🎶<a href="https://open.spotify.com/playlist/48RttvOcYG5VgAj6RrT2eu?utm_source=generator" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="AD'S Spotify Playlist" /></a> 🦆🎶 | [Learn more about Rubber Duck Debugging](https://rubberduckdebugging.com/) |
 
 ---
 
