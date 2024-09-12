@@ -13,3 +13,10 @@
 Did you know the first computer “bug” was an actual bug? In 1947, Grace Hopper and her team found a moth causing issues in their computer and dubbed it the “first real bug.”
 If it had been a raccoon, would we now be calling errors “raccoons” and talking about “raccoon issues” in our code?
 Just imagine trying to “deracoon” a raccoon from your code! 🦝
+
+---
+
+### 🔥 Cool Repositories
+
+##### 🛠️ [handy-scripts](https://github.com/danielmribeiro/handy-scripts)
+A collection of useful and versatile scripts for automating everyday tasks, data extraction, and more. Perfect for developers looking to streamline their workflows with quick, customizable tools.
