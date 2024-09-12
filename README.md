@@ -1,3 +1,11 @@
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="images/gpt_dark.jpg">
+    <source media="(prefers-color-scheme: light)" srcset="images/gpt_light.jpg">
+    <img alt="Theme-based image" src="images/gpt_dark.jpg">
+</picture>
+
+---
+
 <a target="_blank" href="https://www.linkedin.com/in/dmoreiraribeiro/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
 ---
