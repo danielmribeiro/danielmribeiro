@@ -1,7 +1,7 @@
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="images/gpt_dark.jpg">
-    <source media="(prefers-color-scheme: light)" srcset="images/gpt_light.jpg">
-    <img alt="Theme-based image" src="images/gpt_dark.jpg">
+    <source media="(prefers-color-scheme: dark)" srcset="images/gpt_dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="images/gpt_light.png">
+    <img alt="Theme-based image" src="images/gpt_dark.png">
 </picture>
 
 ---
@@ -12,11 +12,13 @@
 
 ### 🔥 Cool Repositories
 
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin?username=danielmribeiro&repo=handy-scripts&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin?username=danielmribeiro&repo=handy-scripts&title_color=24292e&icon_color=24292e&text_color=9f9f9f&bg_color=ffffff">
-    <img alt="Theme-based image handy-scripts" src="https://github-readme-stats.vercel.app/api/pin?username=danielmribeiro&repo=handy-scripts&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515">
-</picture>
+<a href="https://github.com/danielmribeiro/handy-scripts">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin?username=danielmribeiro&repo=handy-scripts&title_color=488ce4&icon_color=9f9f9f&text_color=9f9f9f&theme=transparent&hide_border=true">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin?username=danielmribeiro&repo=handy-scripts&title_color=488ce4&icon_color=9f9f9f&text_color=9f9f9f&theme=transparent&hide_border=true">
+        <img alt="Theme-based image handy-scripts" src="https://github-readme-stats.vercel.app/api/pin?username=danielmribeiro&repo=handy-scripts&title_color=488ce4&icon_color=9f9f9f&text_color=9f9f9f&theme=transparent&hide_border=true">
+    </picture>
+</a>
 
 ---
 
@@ -28,15 +30,15 @@
 ### 📊 GitHub ~~Private~~ Public Stats
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmribeiro&layout=donut-vertical&title_color=fff&text_color=9f9f9f&bg_color=151515">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmribeiro&layout=donut-vertical&title_color=24292e&text_color=2b3137&bg_color=ffffff">
-    <img alt="Theme-based image most-used-languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmribeiro&layout=donut-vertical&title_color=fff&text_color=9f9f9f\&bg_color=151515">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmribeiro&layout=donut-vertical&title_color=488ce4&text_color=9f9f9f&theme=transparent&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmribeiro&layout=donut-vertical&title_color=488ce4&text_color=9f9f9f&theme=transparent&hide_border=true">
+    <img alt="Theme-based image most-used-languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmribeiro&layout=donut-vertical&title_color=488ce4&text_color=9f9f9f&theme=transparent&hide_border=true">
 </picture>
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=danielmribeiro&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=danielmribeiro&show_icons=true&title_color=24292e&icon_color=2dba4e&text_color=2b3137&bg_color=ffffff&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
-    <img alt="Theme-based image github-stats" src="https://github-readme-stats.vercel.app/api?username=danielmribeiro&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=danielmribeiro&show_icons=true&title_color=488ce4&icon_color=9f9f9f&text_color=9f9f9f&theme=transparent&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=danielmribeiro&show_icons=true&title_color=488ce4&icon_color=9f9f9f&text_color=9f9f9f&theme=transparent&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
+    <img alt="Theme-based image github-stats" src="https://github-readme-stats.vercel.app/api?username=danielmribeiro&show_icons=true&title_color=488ce4&icon_color=9f9f9f&text_color=9f9f9f&theme=transparent&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
 </picture>
 
 ---
