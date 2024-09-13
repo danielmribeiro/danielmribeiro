@@ -20,6 +20,60 @@
 
 <br>
 
+### 💼 Work Experience
+
+<a href="https://daniel-ribeiro.com/" style="display: block;">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="images/entrepreneur_dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="images/entrepreneur_light.svg">
+        <img alt="Theme-based image" src="images/entrepreneur_dark.svg">
+    </picture>
+</a>
+
+<br>
+
+<a href="https://www.itsector.pt/" style="display: block;">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="images/itsector_dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="images/itsector_light.svg">
+        <img alt="Theme-based image" src="images/itsector_dark.svg">
+    </picture>
+</a>
+
+<br>
+
+<a href="https://www.redlight.dev/" style="display: block;">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="images/redlight_dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="images/redlight_light.svg">
+        <img alt="Theme-based image" src="images/redlight_dark.svg">
+    </picture>
+</a>
+
+<br>
+
+### 🧑‍🎓 Academic Experience
+
+<a href="https://www.isec.pt/" style="display: block;">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="images/isec_dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="images/isec_light.svg">
+        <img alt="Theme-based image" src="images/isec_dark.svg">
+    </picture>
+</a>
+
+<br>
+
+<a href="https://politecnicoguarda.pt/" style="display: block;">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="images/ipg_dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="images/ipg_light.svg">
+        <img alt="Theme-based image" src="images/ipg_dark.svg">
+    </picture>
+</a>
+
+<br>
+
 ### 🦆 Meet AD
 
 | ![Rubberduck](images/rubberduck.jpg) <br> \**Gives a thoughtful, silent stare*\* | Hello! Meet "Arménio Durães", my coding buddy. We tackle bugs together — he listens to all my coding rants and helps me find tricky errors. He’s named after two professors who really inspired me with their high technical and logical knowledge. And if you see a quack in the code comments, that’s just AD giving his feedback! 🦆 <br> <br> <br> <a href="https://open.spotify.com/playlist/48RttvOcYG5VgAj6RrT2eu?utm_source=generator" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="AD'S Spotify Playlist" /></a> <br>🦆🎶🎧 <br> <br> <br> [Learn more about Rubber Duck Debugging](https://rubberduckdebugging.com/)|
