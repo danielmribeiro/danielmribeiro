@@ -4,11 +4,9 @@
     <img alt="Theme-based image" src="images/gpt_dark.png">
 </picture>
 
----
-
 <a target="_blank" href="https://www.linkedin.com/in/dmoreiraribeiro/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
----
+<br>
 
 ### 🔥 Cool Repositories
 
@@ -20,12 +18,14 @@
     </picture>
 </a>
 
----
+<br>
+
+### 🦆 Meet AD
 
 | ![Rubberduck](images/rubberduck.jpg) <br> \**Gives a thoughtful, silent stare*\* | Hello! Meet "Arménio Durães", my coding buddy. We tackle bugs together — he listens to all my coding rants and helps me find tricky errors. He’s named after two professors who really inspired me with their high technical and logical knowledge. And if you see a quack in the code comments, that’s just AD giving his feedback! 🦆 <br> <br> <br> <a href="https://open.spotify.com/playlist/48RttvOcYG5VgAj6RrT2eu?utm_source=generator" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="AD'S Spotify Playlist" /></a> <br>🦆🎶🎧 <br> <br> <br> [Learn more about Rubber Duck Debugging](https://rubberduckdebugging.com/)|
 |--------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
 
----
+<br>
 
 ### 📊 GitHub ~~Private~~ Public Stats
 
@@ -41,7 +41,7 @@
     <img alt="Theme-based image github-stats" src="https://github-readme-stats.vercel.app/api?username=danielmribeiro&show_icons=true&title_color=488ce4&icon_color=9f9f9f&text_color=9f9f9f&theme=transparent&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
 </picture>
 
----
+<br>
 
 ### ☝️ Fun Fact!
 
