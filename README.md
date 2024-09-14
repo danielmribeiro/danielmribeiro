@@ -1,7 +1,7 @@
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="images/gpt_dark.png">
     <source media="(prefers-color-scheme: light)" srcset="images/gpt_light.png">
-    <img alt="Theme-based image" src="images/gpt_dark.png">
+    <img alt="Chat GPT Theme-based image" src="images/gpt_dark.png">
 </picture>
 
 ##
@@ -36,9 +36,9 @@
 
 <a href="https://daniel-ribeiro.com/" style="display: block;">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="images/entrepreneur_dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="images/entrepreneur_light.svg">
-        <img alt="Theme-based image" src="images/entrepreneur_dark.svg">
+        <source media="(prefers-color-scheme: dark)" srcset="images/careerbreak_dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="images/careerbreak_light.svg">
+        <img alt="Career Break Theme-based image" src="images/careerbreak_dark.svg">
     </picture>
 </a>
 
@@ -48,7 +48,7 @@
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="images/itsector_dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="images/itsector_light.svg">
-        <img alt="Theme-based image" src="images/itsector_dark.svg">
+        <img alt="ITSector Theme-based image" src="images/itsector_dark.svg">
     </picture>
 </a>
 
@@ -58,7 +58,27 @@
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="images/redlight_dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="images/redlight_light.svg">
-        <img alt="Theme-based image" src="images/redlight_dark.svg">
+        <img alt="Redlight Theme-based image" src="images/redlight_dark.svg">
+    </picture>
+</a>
+
+<br>
+
+<a href="https://daniel-ribeiro.com/" style="display: block;">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="images/develead_dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="images/develead_light.svg">
+        <img alt="Develead Theme-based image" src="images/develead_dark.svg">
+    </picture>
+</a>
+
+<br>
+
+<a href="https://daniel-ribeiro.com/" style="display: block;">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="images/youtube_dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="images/youtube_light.svg">
+        <img alt="Youtube Theme-based image" src="images/youtube_dark.svg">
     </picture>
 </a>
 
@@ -70,7 +90,7 @@
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="images/isec_dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="images/isec_light.svg">
-        <img alt="Theme-based image" src="images/isec_dark.svg">
+        <img alt="ISEC Theme-based image" src="images/isec_dark.svg">
     </picture>
 </a>
 
@@ -80,7 +100,7 @@
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="images/ipg_dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="images/ipg_light.svg">
-        <img alt="Theme-based image" src="images/ipg_dark.svg">
+        <img alt="IPG Theme-based image" src="images/ipg_dark.svg">
     </picture>
 </a>
 
