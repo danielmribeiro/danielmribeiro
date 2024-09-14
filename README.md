@@ -4,14 +4,21 @@
     <img alt="Theme-based image" src="images/gpt_dark.png">
 </picture>
 
+##
+
 <div>
-    <a href="https://www.daniel-ribeiro.com/" target="_blank"><img src="https://img.shields.io/badge/daniel--ribeiro.com-FF0000?style=for-the-badge" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/dmoreiraribeiro/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://www.youtube.com/@dmribeiro.9?sub_confirmation=true" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+    <a href="https://instagram.com/danielribeiro.9" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://www.twitch.tv/codingrib" target="_blank"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" target="_blank"></a> 
     <a href="https://x.com/DMRibeiro_/" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/dmoreiraribeiro/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href = "mailto:mr.dmribeiro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.daniel-ribeiro.com/" target="_blank"><img src="https://img.shields.io/badge/daniel--ribeiro.com-8D6748?style=for-the-badge" target="_blank"></a>
+    
     
 </div>
 
-<br>
+##
 
 ### 🔥 Cool Repositories
 
@@ -23,7 +30,7 @@
     </picture>
 </a>
 
-<br>
+##
 
 ### 💼 Work Experience
 
@@ -55,7 +62,7 @@
     </picture>
 </a>
 
-<br>
+##
 
 ### 🧑‍🎓 Academic Experience
 
@@ -77,14 +84,14 @@
     </picture>
 </a>
 
-<br>
+##
 
 ### 🦆 Meet AD
 
 | ![Rubberduck](images/rubberduck.jpg) <br> \**Gives a thoughtful, silent stare*\* | Hello! Meet "Arménio Durães", my coding buddy. We tackle bugs together — he listens to all my coding rants and helps me find tricky errors. He’s named after two professors who really inspired me with their high technical and logical knowledge. And if you see a quack in the code comments, that’s just AD giving his feedback! 🦆 <br> <br> <br> <a href="https://open.spotify.com/playlist/48RttvOcYG5VgAj6RrT2eu?utm_source=generator" target="_blank"><img src="https://img.shields.io/badge/AD%27s%20Code%20Jams-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="AD'S Spotify Playlist" /></a><br>🦆🎶🎧 <br> <br> <br> [Learn more about Rubber Duck Debugging](https://rubberduckdebugging.com/)|
 |--------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
 
-<br>
+##
 
 ### 📊 GitHub ~~Private~~ Public Stats
 
@@ -100,7 +107,7 @@
     <img alt="Theme-based image github-stats" src="https://github-readme-stats.vercel.app/api?username=danielmribeiro&show_icons=true&title_color=488ce4&icon_color=9f9f9f&text_color=9f9f9f&theme=transparent&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
 </picture>
 
-<br>
+##
 
 ### ☝️ Fun Fact!
 
