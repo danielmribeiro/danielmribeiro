@@ -4,13 +4,11 @@
     <img alt="Theme-based image" src="images/gpt_dark.png">
 </picture>
 
-
-<a target="_blank" href="https://www.daniel-ribeiro.com/
-"> <img src="https://img.shields.io/badge/daniel--ribeiro.com-FF0000?style=for-the-badge" /> </a>
-
+<div>
+<a target="_blank" href="https://www.daniel-ribeiro.com/"> <img src="https://img.shields.io/badge/daniel--ribeiro.com-FF0000?style=for-the-badge" /> </a>
 <a target="_blank" href="https://www.linkedin.com/in/dmoreiraribeiro/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
-
 <a target="_blank" href="https://x.com/DMRibeiro_/"> <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" /> </a>
+</div>
 
 <br>
 
