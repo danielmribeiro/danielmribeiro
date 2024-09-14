@@ -4,7 +4,13 @@
     <img alt="Theme-based image" src="images/gpt_dark.png">
 </picture>
 
+
+<a target="_blank" href="https://www.daniel-ribeiro.com/
+"> <img src="https://img.shields.io/badge/daniel--ribeiro.com-FF0000?style=for-the-badge" /> </a>
+
 <a target="_blank" href="https://www.linkedin.com/in/dmoreiraribeiro/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+
+<a target="_blank" href="https://x.com/DMRibeiro_/"> <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" /> </a>
 
 <br>
 
@@ -76,7 +82,7 @@
 
 ### 🦆 Meet AD
 
-| ![Rubberduck](images/rubberduck.jpg) <br> \**Gives a thoughtful, silent stare*\* | Hello! Meet "Arménio Durães", my coding buddy. We tackle bugs together — he listens to all my coding rants and helps me find tricky errors. He’s named after two professors who really inspired me with their high technical and logical knowledge. And if you see a quack in the code comments, that’s just AD giving his feedback! 🦆 <br> <br> <br> <a href="https://open.spotify.com/playlist/48RttvOcYG5VgAj6RrT2eu?utm_source=generator" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="AD'S Spotify Playlist" /></a> <br>🦆🎶🎧 <br> <br> <br> [Learn more about Rubber Duck Debugging](https://rubberduckdebugging.com/)|
+| ![Rubberduck](images/rubberduck.jpg) <br> \**Gives a thoughtful, silent stare*\* | Hello! Meet "Arménio Durães", my coding buddy. We tackle bugs together — he listens to all my coding rants and helps me find tricky errors. He’s named after two professors who really inspired me with their high technical and logical knowledge. And if you see a quack in the code comments, that’s just AD giving his feedback! 🦆 <br> <br> <br> <a href="https://open.spotify.com/playlist/48RttvOcYG5VgAj6RrT2eu?utm_source=generator" target="_blank"><img src="https://img.shields.io/badge/AD%27s%20Code%20Jams-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="AD'S Spotify Playlist" /></a><br>🦆🎶🎧 <br> <br> <br> [Learn more about Rubber Duck Debugging](https://rubberduckdebugging.com/)|
 |--------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
 
 <br>
