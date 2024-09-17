@@ -13,7 +13,7 @@
     <a href="https://x.com/DMRibeiro_/" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/dmoreiraribeiro/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href = "mailto:mr.dmribeiro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.daniel-ribeiro.com/" target="_blank"><img src="https://img.shields.io/badge/daniel--ribeiro.com-8D6748?style=for-the-badge" target="_blank"></a>
+    <a href="https://danielmribeiro.github.io/" target="_blank"><img src="https://img.shields.io/badge/danielmribeiro.github.io-8D6748?style=for-the-badge" target="_blank"></a>
     
     
 </div>
@@ -34,7 +34,7 @@
 
 ### 💼 Work Experience
 
-<a href="https://daniel-ribeiro.com/" style="display: block;">
+<a href="https://danielmribeiro.github.io/" style="display: block;">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="images/careerbreak_dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="images/careerbreak_light.svg">
@@ -64,7 +64,7 @@
 
 <br>
 
-<a href="https://daniel-ribeiro.com/" style="display: block;">
+<a href="https://danielmribeiro.github.io/" style="display: block;">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="images/develead_dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="images/develead_light.svg">
@@ -74,7 +74,7 @@
 
 <br>
 
-<a href="https://daniel-ribeiro.com/" style="display: block;">
+<a href="https://danielmribeiro.github.io/" style="display: block;">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="images/youtube_dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="images/youtube_light.svg">
