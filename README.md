@@ -29,6 +29,14 @@
     </picture>
 </a>
 
+<a href="https://github.com/danielmribeiro/engenharia-informatica">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin?username=danielmribeiro&repo=engenharia-informatica&title_color=488ce4&icon_color=9f9f9f&text_color=9f9f9f&border_color=9f9f9f&theme=transparent">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin?username=danielmribeiro&repo=engenharia-informatica&title_color=488ce4&icon_color=9f9f9f&text_color=9f9f9f&border_color=9f9f9f&theme=transparent">
+        <img alt="Theme-based image engenharia-informatica" src="https://github-readme-stats.vercel.app/api/pin?username=danielmribeiro&repo=engenharia-informatica&title_color=488ce4&icon_color=9f9f9f&text_color=9f9f9f&border_color=9f9f9f&theme=transparent">
+    </picture>
+</a>
+
 ##
 
 ### 🦆 Meet AD
