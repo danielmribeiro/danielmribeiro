@@ -8,12 +8,10 @@
 
 <div>
     <a href="https://www.youtube.com/@dmribeiro.9?sub_confirmation=true" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-    <a href="https://danielribeiro9.itch.io/" target="_blank"><img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/dmoreiraribeiro/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href = "mailto:mr.dmribeiro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://danielmribeiro.github.io/" target="_blank"><img src="https://img.shields.io/badge/danielmribeiro.github.io-8D6748?style=for-the-badge" target="_blank"></a>
-    
-    
+    <a href="https://danielribeiro9.itch.io/" target="_blank"><img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" target="_blank"></a>   
 </div>
 
 ##
