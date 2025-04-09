@@ -56,6 +56,8 @@
     <img alt="Theme-based image github-stats" src="https://github-readme-stats.vercel.app/api?username=danielmribeiro&show_icons=true&title_color=488ce4&icon_color=9f9f9f&text_color=9f9f9f&theme=transparent&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
 </picture>
 
+![](https://komarev.com/ghpvc/?username=danielmribeiro&color=blue&style=for-the-badge&label=Profile+Views)
+
 ##
 
 ### ☝️ Fun Fact!
@@ -63,5 +65,3 @@
 Did you know the first computer “bug” was an actual bug? In 1947, Grace Hopper and her team found a moth causing issues in their computer and dubbed it the “first real bug.”
 If it had been a raccoon, would we now be calling errors “raccoons” and talking about “raccoon issues” in our code?
 Just imagine trying to “deracoon” a raccoon from your code! 🦝
-
-![](https://komarev.com/ghpvc/?username=danielmribeiro&color=brightgreen&style=for-the-badge&label=Profile+Views)
